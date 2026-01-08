@@ -1,4 +1,4 @@
-Here I keep some of my open-source code.
+Here I keep some of my code.
 
 I write fast, reliable, and clean things.  
 At work I do secure development, software engineering, systems programming. Mostly with C/C++.  
