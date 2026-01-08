@@ -5,6 +5,6 @@ At work I do secure development, software engineering, systems programming. Most
 Also interested in HPC and hardware systems design.
 
 > Talk is cheap. Show me the code.  
-> — Linus Torvalds
+> - Linus Torvalds
 
 Watch my pins below.
